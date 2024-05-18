@@ -1,5 +1,5 @@
-Client - Server Chat Application
-Server broadcasts all messages, while clients send and responc to other messages from other clients
+##Client - Server Chat Application
+Server broadcasts all messages receive from clients, while clients send and responc to other messages from other clients
 
 Graphical User Interface built using tkinter
 
